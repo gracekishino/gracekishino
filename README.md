@@ -1,5 +1,8 @@
-### Hi there 👋
-<a href="https://www.learnenough.com/certificates/Nakano"><img src="https://www.learnenough.com/certificates/Nakano/command-line-tutorial.svg" alt="Certificate of Completion for Learn Enough Command Line"></a>
+### Hello
+
+I'm a web developer, artist & yoga instructor from London in the UK, but living in Tokyo since 2002.
+
+<a href="https://twigtea.com">here's my website :)</a>
 <!--
 **gracekishino/gracekishino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
