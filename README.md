@@ -1,4 +1,4 @@
-### Hello
+### Hello!
 
 I'm a web developer, artist & yoga instructor from London in the UK, but living in Tokyo since 2002.
 
