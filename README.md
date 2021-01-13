@@ -1,6 +1,6 @@
 ### Hello!
 
-I'm a web developer, artist & yoga instructor from London in the UK, but living in Tokyo since 2002.
+I'm a developer, artist & yoga instructor from London in the UK, living in Tokyo since 2002.
 
 <a href="https://twigtea.com" target="_blank">here's my website :)</a>
 <!--
