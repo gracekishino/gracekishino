@@ -1,8 +1,8 @@
 ### Hello!
 
-I'm a developer, artist & yoga instructor from London in the UK, living in Tokyo since 2002.
+I'm an artist from London in the UK, now living in Tokyo also a developer and practice + teach yoga. 
 
-<a href="https://twigtea.com" target="_blank">here's my website :)</a>
+See more on my website: <a href="https://twigtea.com" target="_blank">https://twigtea.com</a>
 <!--
 **gracekishino/gracekishino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
