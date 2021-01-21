@@ -2,8 +2,8 @@
 
 I'm a web developer from London in the UK, now living in Tokyo.
 Also love creating art and practice + teach yoga. 
-
-See more on my website :) <a href="https://twigtea.com" target="_blank">https://twigtea.com</a>
+See more on my website ↓ 
+<a href="https://twigtea.com" target="_blank">https://twigtea.com</a>
 <!--
 **gracekishino/gracekishino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
