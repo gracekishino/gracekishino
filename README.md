@@ -1,7 +1,7 @@
 ### Hello!
 
 I'm a developer from London in the UK, now living in Tokyo.<br />
-Also love creating art and practice + teach yoga. <br />
+Also love creating art and practice and teach yoga. <br />
 ↓ See more on my website<br />
 <a href="https://twigtea.com" target="_blank">https://twigtea.com</a>
 <!--
