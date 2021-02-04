@@ -1,9 +1,12 @@
 ### Hello!
 
-I'm a developer from London in the UK, now living in Tokyo.<br />
+I'm a web developer (mainly using  Ruby on Rails at the moment) from London in the UK, now living in Tokyo.<br />
+<a href="https://www.linkedin.com/in/gracekishino/" target="_blank">My LinkedIn Profile</a>
+<br /><br />
 Also love creating art and practice and teach yoga. <br />
 ↓ See more on my website<br />
 <a href="https://twigtea.com" target="_blank">https://twigtea.com</a>
+
 <!--
 **gracekishino/gracekishino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
