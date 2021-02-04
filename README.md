@@ -5,7 +5,7 @@ I'm a web developer (mainly using  Ruby on Rails at the moment) from London in t
 <br /><br />
 Also love creating art and practice and teach yoga. <br />
 ↓ See more on my website<br />
-<a target="_blank" href="https://twigtea.com" target="_blank">https://twigtea.com</a>
+<a target="_blank" href="https://twigtea.com" target="_blank">twigtea.com</a>
 
 <!--
 **gracekishino/gracekishino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
