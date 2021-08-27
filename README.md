@@ -1,7 +1,7 @@
 ### Hello!
 
 I'm a mum and web developer from London in the UK, living in Tokyo.<br /><br />
-Also love creating art and practice and teach yoga. <br />
+Also love creating art and teach yoga. <br />
 ↓ See more on my website<br />
 <a target="_blank" href="https://twigtea.com" target="_blank">twigtea.com</a>
 
