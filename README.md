@@ -1,6 +1,7 @@
 ### Hello!
 
-I'm a mum, artist and developer from London in the UK, living in Tokyo.<br /><br />
+I'm a British mum living in Tokyo ☀️ 
+Explore art on my website 💕 ↓<br /><br />
 <a target="_blank" href="https://twigtea.com" target="_blank">twigtea.com</a>
 
 <!--
