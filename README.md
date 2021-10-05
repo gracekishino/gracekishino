@@ -1,7 +1,7 @@
 ### Hello!
 
-I'm a British mum living in Tokyo ☀️ 
-Explore art on my website 💕 ↓<br /><br />
+I'm a British mum living in Tokyo ☀️<br /> 
+Explore art on my website 💕 ↓<br />
 <a target="_blank" href="https://twigtea.com" target="_blank">twigtea.com</a>
 
 <!--
