@@ -1,10 +1,10 @@
 British mum living in Tokyo ☀️ <br />  <br /> 
 Ruby on Rails Developer<br />
-↓ LinkedIn Profile
+↓ LinkedIn Profile<br />
 https://www.linkedin.com/in/gracekishino/
 
 Artist & Yoga Teacher <br />
-↓ Explore more art & yoga my website 💕 <br />
+↓ Explore more art & yoga on my website<br />
 <a target="_blank" href="https://twigtea.com" target="_blank">twigtea.com</a>
 
 <!--
