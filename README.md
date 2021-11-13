@@ -1,7 +1,8 @@
-### Hello!
+British mum living in Tokyo ☀️ <br /> 
+Ruby on Rails Developer
 
-I'm a British mum living in Tokyo ☀️ <br /> 
-↓ Explore art & yoga on my website 💕 <br />
+Artist & Yoga Teacher
+↓ Explore more on my website 💕 <br />
 <a target="_blank" href="https://twigtea.com" target="_blank">twigtea.com</a>
 
 <!--
