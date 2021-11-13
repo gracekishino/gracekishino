@@ -1,5 +1,6 @@
-British mum living in Tokyo ☀️ <br /> 
+British mum living in Tokyo ☀️ <br />  <br /> 
 Ruby on Rails Developer
+https://www.linkedin.com/in/gracekishino/
 
 Artist & Yoga Teacher <br />
 ↓ Explore more on my website 💕 <br />
