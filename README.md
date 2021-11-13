@@ -1,7 +1,7 @@
 British mum living in Tokyo ☀️ <br /> 
 Ruby on Rails Developer
 
-Artist & Yoga Teacher
+Artist & Yoga Teacher <br />
 ↓ Explore more on my website 💕 <br />
 <a target="_blank" href="https://twigtea.com" target="_blank">twigtea.com</a>
 
