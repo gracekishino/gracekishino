@@ -5,7 +5,7 @@ Web Developer, Artist, Yoga Teacher<br />
 https://www.linkedin.com/in/gracekishino/
 
 
-↓ Explore more art on my website<br />
+↓ Explore more art on my website 💕 <br />
 <a target="_blank" href="https://twigtea.com" target="_blank">twigtea.com</a>
 
 <!--
