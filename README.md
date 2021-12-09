@@ -1,5 +1,5 @@
 British mum living in Tokyo ☀️ <br />  <br /> 
-Web Developer, Artist, Yoga Teacher<br />
+Software Developer, Artist, Yoga Teacher<br />
 
 ↓ LinkedIn Profile<br />
 https://www.linkedin.com/in/gracekishino/
