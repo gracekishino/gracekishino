@@ -1,11 +1,11 @@
 British mum living in Tokyo ☀️ <br />  <br /> 
-Software Developer, Artist, Yoga Teacher<br />
+Software Developer<br />
 
 ↓ LinkedIn Profile<br />
 https://www.linkedin.com/in/gracekishino/
 
 
-↓ Explore art, books & yoga 💕 <br />
+↓ Explore art, books & yoga on my website 💕 <br />
 <a target="_blank" href="https://twigtea.com" target="_blank">twigtea.com</a>
 
 <!--
