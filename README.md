@@ -1,7 +1,7 @@
-British mum living in Tokyo ☀️ <br />  <br /> 
-Artist & Yoga Teacher<br />
+British mum living in Tokyo ☀️ <br />
+Artist & Yoga Teacher 💕 <br />
 
-↓ Explore art, books & yoga on my website 💕 <br />
+↓ Explore art, books & yoga on my website <br />
 <a target="_blank" href="https://twigtea.com" target="_blank">twigtea.com</a>
 
 <!--
