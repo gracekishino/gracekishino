@@ -1,8 +1,4 @@
-British mum living in Tokyo ☀️ <br />
-Artist & Yoga Teacher 💕 <br />
 
-↓ Explore art, books & yoga on my website <br />
-<a target="_blank" href="https://twigtea.com" target="_blank">twigtea.com</a>
 
 <!--
 **gracekishino/gracekishino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
