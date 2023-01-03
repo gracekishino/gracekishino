@@ -1,9 +1,14 @@
-Hello! I'm a software engineer based in Tokyo.
+Hello! 
+
+I'm a Software Engineer based in Tokyo. I've been working part-time in software development for over 20yrs.
+
+For more info see my [Linkedin Profile](https://www.linkedin.com/in/gracekishino/).
 
 - 🔭 I’m currently working on web development using Ruby on Rails, PostgreSQL, Javascript, CSS, HTML, Git and AWS.
 - 🌱 I’m currently learning how to build iOS apps with SwiftUI.
 - 👯 I’m looking to collaborate on open source projects.
-- ⚡ Fun fact: I also create art and teach yoga.
+- ⚡ Fun fact: I also [create art and teach yoga](https://twigtea.com).
+
 
 <!--
 **gracekishino/gracekishino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,4 +23,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I've been working part-time in software development for over 20yrs, for more info see my [Linkedin Profile](https://www.linkedin.com/in/gracekishino/).
