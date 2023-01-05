@@ -4,7 +4,7 @@ I'm a freelance software engineer based in Tokyo.
 
 For more info see my [Linkedin Profile](https://www.linkedin.com/in/gracekishino/).
 
-- 🔭 I’m currently working on web development using Ruby on Rails, PostgreSQL, Javascript, CSS, HTML, Git and AWS.
+- 🔭 My current stack is Ruby on Rails, PostgreSQL, Javascript, CSS, HTML, Git and AWS.
 - 🌱 I’m currently learning how to build iOS apps with SwiftUI.
 - ⚡ Fun fact: I also [create art and teach yoga](https://twigtea.com).
 
