@@ -1,6 +1,6 @@
 Hello! 
 
-I'm a Software Engineer based in Tokyo. I've been working part-time in software development for over 20yrs.
+I'm a freelance software engineer based in Tokyo. 
 
 For more info see my [Linkedin Profile](https://www.linkedin.com/in/gracekishino/).
 
