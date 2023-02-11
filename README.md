@@ -1,6 +1,6 @@
 Hello! 
 
-I'm a freelance software engineer based in Tokyo. 
+I'm a freelance software developer based in Tokyo. 
 
 For more info see my [Linkedin Profile](https://www.linkedin.com/in/gracekishino/).
 
