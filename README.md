@@ -1,11 +1,12 @@
 Hello! 
 
-I'm a software developer based in Tokyo. 
+I'm a full stack developer based in Tokyo, moving to the UK in April 2024. 
 
 For more info see my [Linkedin Profile](https://www.linkedin.com/in/gracekishino/).
 
 - 🔭 My current stack is Ruby on Rails, PostgreSQL, Javascript, Git and AWS.
 - 🌱 I’m currently learning how to build iOS apps with SwiftUI.
+- 💬 Ask me about how to contribute to [Codecademy Docs](https://www.codecademy.com/resources/docs)
 - ⚡ Fun fact: I also [create art and teach yoga](https://twigtea.com).
 
 
