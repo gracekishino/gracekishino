@@ -1,6 +1,6 @@
 Hello! 
 
-I'm a full stack developer based in Tokyo, moving to the UK in April 2024. 
+I'm a Full Stack Developer based in Tokyo, moving to the UK in April 2024. 
 
 For more info see my [Linkedin Profile](https://www.linkedin.com/in/gracekishino/).
 
