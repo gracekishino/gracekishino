@@ -1,6 +1,6 @@
 Hello! 
 
-I'm a Ruby on Rails Developer based in Tokyo, moving to the UK in April 2024. 
+I'm a Developer based in Tokyo, moving to the UK in April 2024. 
 
 For more info see my [Linkedin Profile](https://www.linkedin.com/in/gracekishino/).
 
