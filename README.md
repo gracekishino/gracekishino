@@ -1,11 +1,11 @@
 Hello! 
 
-I'm a Full-Stack Developer based in Tokyo, moving to the UK in April 2024. 
+I'm a Full-Stack Developer based in Tokyo, relocating to the UK in April 2024. 
 
 For more info see my [Linkedin Profile](https://www.linkedin.com/in/gracekishino/).
 
 - 🔭 My current stack is Ruby on Rails, PostgreSQL, Javascript, Git and AWS.
-- 🌱 I’m currently learning how to build iOS apps with SwiftUI.
+- 🌱 I’m currently learning iOS Development with Codecademy.
 - ⚡ Fun fact: I also [create art and teach yoga](https://twigtea.com).
 
 
