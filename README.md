@@ -1,6 +1,6 @@
 **Open to Remote or Hybrid Roles ✨**
 
-Relocating from Tokyo to the UK in April 2024
+Relocating from Japan🇯🇵 to the UK🇬🇧 in April 2024
 
 - 🌳 Full Stack Developer with over 20 years of experience in Tokyo.
 - 🔭 Current stack is Ruby on Rails, PostgreSQL, Javascript, Git and AWS.
