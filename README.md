@@ -1,4 +1,4 @@
-Open to Remote or Hybrid Roles ✨
+**Open to Remote or Hybrid Roles ✨**
 
 Relocating from Tokyo to the UK in April 2024
 
@@ -9,7 +9,7 @@ Relocating from Tokyo to the UK in April 2024
 
 - ⚡ Fun fact: I also [create art and teach yoga](https://twigtea.com).
 
-For more info and to connect, see my [Linkedin Profile](https://www.linkedin.com/in/gracekishino/).
+**For more info and to connect, see my [Linkedin Profile](https://www.linkedin.com/in/gracekishino/).**
 
 
 
