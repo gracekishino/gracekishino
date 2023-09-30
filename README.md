@@ -3,10 +3,10 @@
 Relocating from Japan to the UK in April 2024
 
 - 🌳 Full Stack Developer with over 20 years of experience in Tokyo.
-- 🔭 Current stack is Ruby on Rails, PostgreSQL, Javascript, Git and AWS.
-- 🌳 24 Contributions to the [Codecademy Docs Project](https://github.com/Codecademy/docs).
+- 📚 Current stack is Ruby on Rails, PostgreSQL, Javascript, Git and AWS.
+- 🌱 24 Contributions to the [Codecademy Docs Project](https://github.com/Codecademy/docs).
 
-- ⚡ Fun fact: I also [create art and teach yoga](https://twigtea.com).
+- ☀️ Fun fact: I also [create art and teach yoga](https://twigtea.com).
 
 **For more info and to connect, see my [Linkedin Profile](https://www.linkedin.com/in/gracekishino/).**
 
