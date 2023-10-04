@@ -1,6 +1,6 @@
 
 
-- 🌳 Full Stack Developer with over 20 years of experience in Tokyo.
+- 🌳 [Full Stack Developer with over 20 years of experience in Tokyo](https://gracekishino.github.io/).
 - 📚 Current stack is Ruby on Rails, PostgreSQL, Javascript, Git and AWS.
 - 🌱 24 Contributions to the [Codecademy Docs Project](https://github.com/Codecademy/docs).
 
