@@ -2,7 +2,7 @@
 
 - 🌳 [Full Stack Developer with over 20 years of experience in Tokyo](https://gracekishino.github.io/).
 - 📚 Current stack is Ruby on Rails + Hotwire, Javascript, PostgreSQL, Git and AWS.
-- 💞 26 Contributions to Codecademy [Docs](https://github.com/Codecademy/docs) and Codecademy [Full Stack Chapter](https://community.codecademy.com/full-stack/) Lead.
+- 💞 27 Contributions to Codecademy [Docs](https://github.com/Codecademy/docs) and Codecademy [Full Stack Chapter](https://community.codecademy.com/full-stack/) Lead.
 
 - ☀️ Fun fact: I also [create art and teach yoga](https://twigtea.com).
 
