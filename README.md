@@ -1,4 +1,4 @@
-Hello! I'm Grace Kishino, a versatile Web Designer, Illustrator, and Yoga Teacher based in Hastings, UK.  
+Hello! I'm Grace Kishino, a Web Designer, Illustrator, and Yoga Teacher based in Hastings, UK.  
 
 - ✨ [Web Design Portfolio](https://gracekishino.github.io/)
 - 🧘‍♀️ [Yoga + Art Website](https://twigtea.com)
