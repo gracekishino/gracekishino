@@ -1,10 +1,8 @@
+Hello! I'm Grace Kishino, a versatile Web Designer, Illustrator, and Yoga Teacher based in Hastings, UK.  
 
-
-- 🌳 [Software Developer with 20+ years web development experience](https://gracekishino.github.io/).
-- 📚 Current stack is Ruby on Rails + Hotwire, Javascript, PostgreSQL, Git and AWS.
-- 💞 28 Contributions to Codecademy [Docs](https://github.com/Codecademy/docs) and Codecademy [Full Stack Chapter](https://community.codecademy.com/full-stack/) Lead.
-
-- ☀️ Fun fact: I also [create art and teach yoga](https://twigtea.com).
+- ✨ [Web Design Portfolio](https://gracekishino.github.io/)
+- 🧘‍♀️ [Yoga + Art Website](https://twigtea.com)
+- 💞 Codecademy [Docs](https://github.com/Codecademy/docs) Contributor + [Full Stack Chapter](https://community.codecademy.com/full-stack/) Lead.
 
 **For more info and to connect, see my [Linkedin Profile](https://www.linkedin.com/in/gracekishino/).**
 
