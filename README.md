@@ -12,6 +12,11 @@ I'm Grace, a Web Designer, Illustrator, and Yoga Teacher based in Hastings, UK.
 
 ## Recent Projects 🚀
 
+### Open Source Community
+
+- [Coding Playlists Website Project](https://github.com/gracekishino/coding_playlists)
+- [Codecademy Docs Contributions](https://docs.google.com/document/d/1G6rkYAwYNsk1cQgo6cl-P4IHznF4DThVBHod-w93Tsk/edit)
+
 ### React
 
 - [React with Spotify API: Jammming](https://jammmmmming.netlify.app)
@@ -20,7 +25,6 @@ I'm Grace, a Web Designer, Illustrator, and Yoga Teacher based in Hastings, UK.
 
 ### HTML & CSS
 
-- [Community Project for sharing coding playlists](https://coding-playlists.netlify.app)
 - [Tea Cozy Responsive Website](https://gracekishino.github.io/tea-cozy)
 - [Fixing CSS on Fotomatic Website](https://gracekishino.github.io/fotomatic)
 
