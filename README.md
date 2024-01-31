@@ -2,9 +2,9 @@
 
 I'm Grace, a Web Designer, Illustrator, and Yoga Teacher based in Hastings, UK.  
 
-- ✨ [Web Projects Portfolio](https://gracekishino.github.io/)
-- 🧘‍♀️ [Yoga + Art Website](https://twigtea.com)
-- 💞 Codecademy [Docs](https://github.com/Codecademy/docs) Contributor + [Full Stack Chapter](https://community.codecademy.com/full-stack/) Lead.
+- ✨ [Web Projects Portfolio](https://gracekishino.github)
+- 💞 [Full Stack Chapter Lead](https://community.codecademy.com/full-stack/)
+- 🧘‍♀️ [Art + Yoga Website](https://twigtea.com)
 
 **For more info and to connect, see my [Linkedin Profile](https://www.linkedin.com/in/gracekishino/).**
 
@@ -30,7 +30,7 @@ I'm Grace, a Web Designer, Illustrator, and Yoga Teacher based in Hastings, UK.
 
 ### Figma Design
 
-- [Figma Web Product Details Page Prototype](https://www.figma.com/community/file/1331953306616207339/product-details-page)
+- [Figma Product Details Prototype](https://www.figma.com/community/file/1331953306616207339/product-details-page)
 - [Figma Mobile Signup Prototype](https://www.figma.com/community/file/1331925784498617298/friendly-sign-up-flow)
 
 
