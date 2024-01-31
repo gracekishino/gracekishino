@@ -22,6 +22,7 @@ I'm Grace, a Web Designer, Illustrator, and Yoga Teacher based in Hastings, UK.
 
 - [React with Spotify API: Jammming](https://jammmmmming.netlify.app)
 - [React Router Practice: Adopt a Pet](https://adopt-a-pet-react-router-project.netlify.app)
+- [React Practice: Appointment Planner](https://appointment-planner-2024.netlify.app)
 - [React Practice: Passing Thoughts](https://passing-thoughts-project.netlify.app)
 
 ### HTML & CSS
