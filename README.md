@@ -1,4 +1,6 @@
-Hello! I'm Grace, a Web Designer, Illustrator, and Yoga Teacher based in Hastings, UK.  
+# Hello! 👋 
+
+I'm Grace, a Web Designer, Illustrator, and Yoga Teacher based in Hastings, UK.  
 
 - ✨ [Web Design Portfolio](https://gracekishino.github.io/)
 - 🧘‍♀️ [Yoga + Art Website](https://twigtea.com)
@@ -6,9 +8,9 @@ Hello! I'm Grace, a Web Designer, Illustrator, and Yoga Teacher based in Hasting
 
 **For more info and to connect, see my [Linkedin Profile](https://www.linkedin.com/in/gracekishino/).**
 
-<hr>
+<br>
 
-## Recent Projects
+## Recent Projects 🚀
 
 ### React
 
