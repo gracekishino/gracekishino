@@ -6,6 +6,26 @@ Hello! I'm Grace, a Web Designer, Illustrator, and Yoga Teacher based in Hasting
 
 **For more info and to connect, see my [Linkedin Profile](https://www.linkedin.com/in/gracekishino/).**
 
+<hr>
+
+## Recent Projects
+
+### React
+
+- React with Spotify API: https://jammmmmming.netlify.app
+- React Router Practice: https://adopt-a-pet-react-router-project.netlify.app
+- React Practice: https://passing-thoughts-project.netlify.app
+
+### HTML & CSS
+
+- Community Project: https://coding-playlists.netlify.app
+- Responsive Website: https://gracekishino.github.io/tea-cozy
+- Fixing CSS: https://gracekishino.github.io/fotomatic
+
+### Design
+
+- Figma Web Product Details Page Prototype: https://www.figma.com/community/file/1331953306616207339/product-details-page
+- Figma Mobile Signup Prototype: https://www.figma.com/community/file/1331925784498617298/friendly-sign-up-flow
 
 
 
