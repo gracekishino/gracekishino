@@ -12,7 +12,7 @@ I'm Grace, a Web Designer, Illustrator, and Yoga Teacher based in Hastings, UK.
 
 ## Recent Projects 🚀
 
-### Open Source Community
+### Open Source 
 
 - [Coding Playlists Website](https://github.com/gracekishino/coding_playlists)
 - [Secret Santa Web App](https://github.com/mdwiltfong/secret-santa)
