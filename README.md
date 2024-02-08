@@ -1,6 +1,6 @@
 # Hello! 👋 
 
-I'm Grace, a Web Designer, Illustrator, and Yoga Teacher based in Hastings, UK.  
+I'm Grace, a Web Developer, Illustrator, and Yoga Teacher based in Hastings, UK.  
 
 - ✨ [Web Projects Portfolio](https://gracekishino.github.io)
 - 💞 [Full Stack Chapter Lead](https://community.codecademy.com/full-stack/)
