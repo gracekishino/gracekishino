@@ -29,8 +29,10 @@ I'm Grace, a Web Designer, Illustrator, and Yoga Teacher based in Hastings, UK.
 
 ### HTML & CSS
 
-- [Tea Cozy Responsive Website](https://gracekishino.github.io/tea-cozy)
-- [Fixing CSS on Fotomatic Website](https://gracekishino.github.io/fotomatic)
+|                                     |                                                      |                                                                   |
+|-------------------------------------|------------------------------------------------------|-------------------------------------------------------------------|
+| **Tea Cozy Responsive Website**     | [View Site](https://gracekishino.github.io/tea-cozy) | [View Code](https://github.com/gracekishino/tea-cozy)            |
+| **Fixing CSS on Fotomatic Website** | [View Site](https://gracekishino.github.io/fotomatic)| [View Code](https://github.com/gracekishino/fotomatic)         |
 
 ### Figma Design
 
