@@ -12,12 +12,6 @@ I'm Grace, a Web Designer, Illustrator, and Yoga Teacher based in Hastings, UK.
 
 ## Recent Projects 🚀
 
-### Open Source 
-
-- [Coding Playlists Website](https://github.com/gracekishino/coding_playlists)
-- [Secret Santa Web App](https://github.com/mdwiltfong/secret-santa)
-- [Codecademy Docs Contributions](https://docs.google.com/document/d/1G6rkYAwYNsk1cQgo6cl-P4IHznF4DThVBHod-w93Tsk/edit)
-
 ### React
 
 |                                 |                           |                                                                   |                                                                  |
@@ -39,7 +33,11 @@ I'm Grace, a Web Designer, Illustrator, and Yoga Teacher based in Hastings, UK.
 - [Figma Product Details Prototype](https://www.figma.com/community/file/1331953306616207339/product-details-page)
 - [Figma Mobile Signup Prototype](https://www.figma.com/community/file/1331925784498617298/friendly-sign-up-flow)
 
+### Open Source 
 
+- [Coding Playlists Website](https://github.com/gracekishino/coding_playlists)
+- [Secret Santa Web App](https://github.com/mdwiltfong/secret-santa)
+- [Codecademy Docs Contributions](https://docs.google.com/document/d/1G6rkYAwYNsk1cQgo6cl-P4IHznF4DThVBHod-w93Tsk/edit)
 
 <!--
 **gracekishino/gracekishino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
