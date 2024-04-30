@@ -1,6 +1,6 @@
 # Hello! 👋 
 
-I'm Grace, a Full Stack Developer, Yoga Teacher and Artist based in Hastings, UK.  
+I'm Grace, a Full Stack Developer, Yoga Teacher and Artist based in Hastings, UK and Tokyo, Japan.  
 
 - ✨ [Projects Portfolio](https://gracekishino.github.io)
 - 💞 [Full Stack Chapter Lead](https://community.codecademy.com/full-stack/)
