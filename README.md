@@ -1,6 +1,6 @@
 # Hello! 👋 
 
-I'm Grace, a Developer, Yoga Teacher and Artist based in Hastings, UK and Tokyo, Japan.  
+I'm Grace, a Developer, Yoga Teacher and Artist based in 🇬🇧 and 🇯🇵  
 
 - ✨ [Projects Portfolio](https://gracekishino.github.io)
 - 💞 [Full Stack Chapter Lead](https://community.codecademy.com/full-stack/)
