@@ -1,6 +1,6 @@
 # Hello! 👋 
 
-I'm Grace, a Developer, Yoga Teacher and Artist based in 🇬🇧 and 🇯🇵  
+I'm Grace, a Developer, Yoga Teacher and Artist
 
 - ✨ [Projects Portfolio](https://gracekishino.github.io)
 - 💞 [Full Stack Chapter Lead](https://community.codecademy.com/full-stack/)
