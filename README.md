@@ -2,11 +2,10 @@
 
 I'm Grace, a Developer, Yoga Teacher and Artist
 
-- ✨ [Projects Portfolio](https://gracekishino.github.io)
+- ✨ [Projects Portfolio](https://grace_k.github.io)
 - 💞 [Full Stack Chapter Lead](https://community.codecademy.com/full-stack/)
 - 🧘‍♀️ [Art + Yoga Website](https://twigtea.com)
 
-**For more info and to connect, see my [Linkedin Profile](https://www.linkedin.com/in/gracekishino/).**
 
 <br>
 
