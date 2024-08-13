@@ -18,7 +18,7 @@ I'm Grace, a Developer, Yoga Teacher and Artist
 | **Adopt a Pet**                 | ⚛️ React Router            | [View Site](https://adopt-a-pet-react-router-project.netlify.app) | [View Code](https://github.com/gracekishino/adopt_a_pet)         |
 | **Appointment Planner**         | ⚛️ React                   | [View Site](https://appointment-planner-2024.netlify.app)         | [View Code](https://github.com/gracekishino/appointment-planner) |
 | **Passing Thoughts**            | ⚛️ React                   | [View Site](https://passing-thoughts-project.netlify.app)         | [View Code](https://github.com/gracekishino/passing_thoughts)    |
-| **Musicon**                     | 🚲 HandleBars              | [View Site](https://gracekishino.github.io/tea-cozy)              | [View Code](https://github.com/gracekishino/musicon)             |
+| **Musicon**                     | 🚲 HandleBars              | [View Site](https://gracekishino.github.io/musicon)               | [View Code](https://github.com/gracekishino/musicon)             |
 
 ### HTML & CSS
 
