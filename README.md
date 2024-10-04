@@ -26,6 +26,7 @@ I'm Grace, a Developer, Yoga Teacher and Artist
 |-------------------------------------|------------------------------------------------------|-------------------------------------------------------------------|
 | **Tea Cozy Responsive Website**     | [View Site](https://gracekishino.github.io/tea-cozy) | [View Code](https://github.com/gracekishino/tea-cozy)            |
 | **Fixing CSS on Fotomatic Website** | [View Site](https://gracekishino.github.io/fotomatic)| [View Code](https://github.com/gracekishino/fotomatic)         |
+| **SASS Bar Chart** | [View Site](https://gracekishino.github.io/sass-bar-chart)| [View Code](https://github.com/gracekishino/sass-bar-chart)         |
 
 ### Figma UI/UX Design
 
