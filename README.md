@@ -13,7 +13,7 @@ I'm Grace, a Developer, Yoga Teacher and Artist
 |                                 |                            |                                                                   |                                                                  |
 |---------------------------------|----------------------------|-------------------------------------------------------------------|------------------------------------------------------------------|
 | **Jammming**                    | ⚛️ React with  Spotify API | [View Site](https://jammmmmming.netlify.app)                      | [View Code](https://github.com/gracekishino/jammming)            |
-| **Ravenous**                    | ⚛️ React with  Yelp    API | [View Site](https://rrravenous.netlify.app.netlify.app)           | [View Code](https://github.com/gracekishino/ravenous)            |
+| **Ravenous**                    | ⚛️ React with  Yelp    API | [View Site](https://rrravenous.netlify.app)                       | [View Code](https://github.com/gracekishino/ravenous)            |
 | **Flashcards**                  | ⚛️ React with Redux        | [View Site](https://redux-react-flashcards.netlify.app)           | [View Code](https://github.com/gracekishino/flashcards)          |
 | **Adopt a Pet**                 | ⚛️ React Router            | [View Site](https://adopt-a-pet-react-router-project.netlify.app) | [View Code](https://github.com/gracekishino/adopt_a_pet)         |
 | **Appointment Planner**         | ⚛️ React                   | [View Site](https://appointment-planner-2024.netlify.app)         | [View Code](https://github.com/gracekishino/appointment-planner) |
@@ -24,9 +24,9 @@ I'm Grace, a Developer, Yoga Teacher and Artist
 
 |                                     |                                                      |                                                                   |
 |-------------------------------------|------------------------------------------------------|-------------------------------------------------------------------|
-| **Tea Cozy Responsive Website**     | [View Site](https://gracekishino.github.io/tea-cozy) | [View Code](https://github.com/gracekishino/tea-cozy)            |
-| **Fixing CSS on Fotomatic Website** | [View Site](https://gracekishino.github.io/fotomatic)| [View Code](https://github.com/gracekishino/fotomatic)         |
-| **SASS Bar Chart** | [View Site](https://gracekishino.github.io/sass-bar-chart)| [View Code](https://github.com/gracekishino/sass-bar-chart)         |
+| **Tea Cozy Responsive Website**     | [View Site](https://gracekishino.github.io/tea-cozy) | [View Code](https://github.com/gracekishino/tea-cozy)             |
+| **Fixing CSS on Fotomatic Website** | [View Site](https://gracekishino.github.io/fotomatic)| [View Code](https://github.com/gracekishino/fotomatic)            |
+| **SASS Bar Chart** | [View Site](https://gracekishino.github.io/sass-bar-chart)| [View Code](https://github.com/gracekishino/sass-bar-chart)                   |
 
 ### Figma UI/UX Design
 
