@@ -1,8 +1,4 @@
-# Hello! 👋 
-
-I'm Grace, a Developer, Yoga Teacher and Artist
-
-- ✨ [Projects Portfolio](https://gracekishino.github.io)
+✨ [Projects Portfolio](https://gracekishino.github.io)
 <br>
 
 ## Recent Projects 🚀
